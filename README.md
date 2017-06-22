@@ -1,2 +1,2 @@
-# arushi12130.github.io
-Arushi's personal website
+# theoptimistprime.github.io
+Ayush's personal website
