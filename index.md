@@ -8,7 +8,7 @@ I'm a graduate student in the [Reasoning and Learning Lab](http://rl.cs.mcgill.c
 
 In 2012 I completed my Bachelor of Engineering (B.E.) degree in Computer Engineering at the University of Delhi. 
 
-You can download my CV (updated on May 2017) [here]({{ site.url }}/cv/cv.pdf){:target="_blank"}.
+You can download my CV (updated on May 2017) [here]({{site.url}}/cv/cv.pdf){:target="_blank"}.
 
 
 Research Experience
