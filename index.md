@@ -4,11 +4,12 @@ layout: page
 About
 -----
 
-I'm a graduate student in the [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/) at [McGill University](https://www.mcgill.ca/). I’m interested in reinforcement learning(RL) - especially temporal abstaction and eligibility traces as they apply to RL. I’m supervised by [Prof. Doina Precup](http://cs.mcgill.ca/~dprecup/) 
+I'm a graduate student in the [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/) at [McGill University](https://www.mcgill.ca/). I’m interested in reinforcement learning(RL) - especially temporal abstraction and eligibility traces as they apply to RL. I’m supervised by [Prof. Doina Precup](http://cs.mcgill.ca/~dprecup/) 
 
 In 2012 I completed my Bachelor of Engineering (B.E.) degree in Computer Engineering at the University of Delhi. 
 
 You can download my CV (updated on May 2017) [here](https://theoptimistprime.github.io/cv/cv.pdf){:target="_blank"}.
+
 
 
 Research Experience
@@ -17,12 +18,14 @@ Research Experience
 I am currently working on experience efficient off-policy methods to perform model-based reinforcement learning with options framework. My work on eligibility traces supplemented learning and planning methods for temporally abstract actions (options) is underway and is showing promising results.
 
 
+
 Work Experience
 ----------
 
 I worked as a Computer Scientist in Adobe Systems for three years. I was responsible for a major version release of Adobe Drive as a dev-owner. Before this, I worked on a page description language's translation engine - PDFtoPS.
 
 During the summer of 2011 in undergrad, I worked as a Research Intern at National Informatic Center – NHRC Division, Govt. of India. There we developed a [library for fingerprint enrolment, feature extraction and matching](https://theoptimistprime.github.io/cv/AFIS.pdf){:target="_blank"}.
+
 
 
 Projects
