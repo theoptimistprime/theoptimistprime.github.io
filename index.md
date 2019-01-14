@@ -8,7 +8,7 @@ I'm a graduate student in the [Reasoning and Learning Lab](http://rl.cs.mcgill.c
 
 In 2012 I completed my Bachelor of Engineering (B.E.) degree in Computer Engineering at the University of Delhi. 
 
-You can download my CV (updated on May 2017) [here](https://theoptimistprime.github.io/cv/cv.pdf){:target="_blank"}.
+You can download my CV (updated on May 2017) [here](https://ayhjain.github.io/cv/Resume.pdf){:target="_blank"}.
 
 
 
@@ -22,7 +22,7 @@ I am currently working on experience efficient off-policy methods to perform mod
 Work Experience
 ----------
 
-I worked as a Computer Scientist in Adobe Systems for three years. I was responsible for a major version release of Adobe Drive as a dev-owner. Before this, I worked on a page description language's translation engine - PDFtoPS.
+I worked as a Computer Scientist in Adobe Systems for three years.https://theoptimistprime.github.io/cv/cv.pdf I was responsible for a major version release of Adobe Drive as a dev-owner. Before this, I worked on a page description language's translation engine - PDFtoPS.
 
 During the summer of 2011 in undergrad, I worked as a Research Intern at National Informatic Center – NHRC Division, Govt. of India. There we developed a [library for fingerprint enrolment, feature extraction and matching](https://theoptimistprime.github.io/cv/AFIS.pdf){:target="_blank"}.
 
