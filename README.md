@@ -1,2 +1,2 @@
-# theoptimistprime.github.io
+# ayhjain.github.io
 Ayush's personal website
